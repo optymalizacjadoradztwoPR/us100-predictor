@@ -1,0 +1,12 @@
+{
+  "name": "us100-gold-indicators",
+  "version": "2.0.0",
+  "description": "US100 i ZŁOTO - 11 wskaźników (poprawione kierunki)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
